@@ -88,3 +88,6 @@ With added features like humidity, wind speed, or forecast trends, this project 
 WeatherSnap is a lightweight but powerful project that clearly demonstrates the use of live APIs, data extraction, and visualization in Python. It’s easy to set up, beginner-friendly, and highly customizable. Whether you're a student learning Python or a developer exploring API data pipelines, WeatherSnap is a valuable and practical project to build and showcase.
 
 
+## **OUTPUT**
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/88b3e559-ed68-440f-a561-a0f67450eca2" />
+
